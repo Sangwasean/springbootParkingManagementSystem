@@ -1,15 +1,15 @@
-package com.mikepn.vehiclemanagementsystem.services.impl;
+package com.sean.vehiclemanagementsystem.services.impl;
 
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.role.CreateRoleDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.role.RoleResponseDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.role.RolesResponseDTO;
-import com.mikepn.vehiclemanagementsystem.enums.ERole;
-import com.mikepn.vehiclemanagementsystem.exceptions.InternalServerErrorException;
-import com.mikepn.vehiclemanagementsystem.exceptions.NotFoundException;
-import com.mikepn.vehiclemanagementsystem.models.Role;
-import com.mikepn.vehiclemanagementsystem.repositories.IRoleRepository;
-import com.mikepn.vehiclemanagementsystem.services.IRoleService;
+import com.sean.vehiclemanagementsystem.dtos.request.role.CreateRoleDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.role.RoleResponseDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.role.RolesResponseDTO;
+import com.sean.vehiclemanagementsystem.enums.ERole;
+import com.sean.vehiclemanagementsystem.exceptions.InternalServerErrorException;
+import com.sean.vehiclemanagementsystem.exceptions.NotFoundException;
+import com.sean.vehiclemanagementsystem.models.Role;
+import com.sean.vehiclemanagementsystem.repositories.IRoleRepository;
+import com.sean.vehiclemanagementsystem.services.IRoleService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

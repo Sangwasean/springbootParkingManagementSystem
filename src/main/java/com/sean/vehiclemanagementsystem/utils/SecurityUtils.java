@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.utils;
+package com.sean.vehiclemanagementsystem.utils;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Component;

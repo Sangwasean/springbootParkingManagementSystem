@@ -1,12 +1,12 @@
-package com.mikepn.vehiclemanagementsystem.controllers;
+package com.sean.vehiclemanagementsystem.controllers;
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.auth.UpdateUserDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.user.UserResponseDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.user.UserRoleModificationDTO;
-import com.mikepn.vehiclemanagementsystem.models.User;
-import com.mikepn.vehiclemanagementsystem.payload.ApiResponse;
-import com.mikepn.vehiclemanagementsystem.services.IUserService;
-import com.mikepn.vehiclemanagementsystem.utils.ExceptionUtils;
+import com.sean.vehiclemanagementsystem.dtos.request.auth.UpdateUserDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.user.UserResponseDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.user.UserRoleModificationDTO;
+import com.sean.vehiclemanagementsystem.models.User;
+import com.sean.vehiclemanagementsystem.payload.ApiResponse;
+import com.sean.vehiclemanagementsystem.services.IUserService;
+import com.sean.vehiclemanagementsystem.utils.ExceptionUtils;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

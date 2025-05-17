@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.dtos.response.auth;
+package com.sean.vehiclemanagementsystem.dtos.response.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

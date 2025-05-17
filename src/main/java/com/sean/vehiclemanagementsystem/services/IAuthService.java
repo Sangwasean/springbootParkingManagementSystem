@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.services;
+package com.sean.vehiclemanagementsystem.services;
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.auth.LoginDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.auth.AuthResponse;
+import com.sean.vehiclemanagementsystem.dtos.request.auth.LoginDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.auth.AuthResponse;
 
 public interface IAuthService {
 

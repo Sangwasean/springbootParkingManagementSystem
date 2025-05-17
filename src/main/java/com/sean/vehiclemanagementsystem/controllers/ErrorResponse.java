@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.controllers;
+package com.sean.vehiclemanagementsystem.controllers;
 
 public class ErrorResponse {
     private final String message;

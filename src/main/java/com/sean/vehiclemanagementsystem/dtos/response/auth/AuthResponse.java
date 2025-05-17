@@ -1,6 +1,6 @@
-package com.mikepn.vehiclemanagementsystem.dtos.response.auth;
+package com.sean.vehiclemanagementsystem.dtos.response.auth;
 
-import com.mikepn.vehiclemanagementsystem.models.User;
+import com.sean.vehiclemanagementsystem.models.User;
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.utils.helpers;
+package com.sean.vehiclemanagementsystem.utils.helpers;
 
-import com.mikepn.vehiclemanagementsystem.exceptions.AppException;
-import com.mikepn.vehiclemanagementsystem.repositories.IPlateNumberRepository;
+import com.sean.vehiclemanagementsystem.exceptions.AppException;
+import com.sean.vehiclemanagementsystem.repositories.IPlateNumberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

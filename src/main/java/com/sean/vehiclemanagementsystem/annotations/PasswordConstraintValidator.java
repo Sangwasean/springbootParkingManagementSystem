@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.annotations;
+package com.sean.vehiclemanagementsystem.annotations;
 
 import com.google.common.base.Joiner;
 import jakarta.validation.ConstraintValidator;

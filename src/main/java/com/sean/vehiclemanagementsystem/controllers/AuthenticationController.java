@@ -1,16 +1,16 @@
-package com.mikepn.vehiclemanagementsystem.controllers;
+package com.sean.vehiclemanagementsystem.controllers;
 
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.auth.LoginDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.auth.PasswordResetDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.auth.PasswordUpdateDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.user.CreateAdminDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.user.UserResponseDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.auth.AuthResponse;
-import com.mikepn.vehiclemanagementsystem.payload.ApiResponse;
-import com.mikepn.vehiclemanagementsystem.services.IAuthService;
-import com.mikepn.vehiclemanagementsystem.services.IUserService;
-import com.mikepn.vehiclemanagementsystem.utils.ExceptionUtils;
+import com.sean.vehiclemanagementsystem.dtos.request.auth.LoginDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.auth.PasswordResetDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.auth.PasswordUpdateDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.user.CreateAdminDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.user.UserResponseDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.auth.AuthResponse;
+import com.sean.vehiclemanagementsystem.payload.ApiResponse;
+import com.sean.vehiclemanagementsystem.services.IAuthService;
+import com.sean.vehiclemanagementsystem.services.IUserService;
+import com.sean.vehiclemanagementsystem.utils.ExceptionUtils;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

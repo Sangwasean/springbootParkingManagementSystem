@@ -1,12 +1,12 @@
-package com.mikepn.vehiclemanagementsystem.services;
+package com.sean.vehiclemanagementsystem.services;
 
 
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.auth.UpdateUserDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.user.CreateAdminDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.user.UserResponseDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.user.UserRoleModificationDTO;
-import com.mikepn.vehiclemanagementsystem.models.User;
+import com.sean.vehiclemanagementsystem.dtos.request.auth.UpdateUserDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.user.CreateAdminDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.user.UserResponseDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.user.UserRoleModificationDTO;
+import com.sean.vehiclemanagementsystem.models.User;
 
 import java.util.List;
 import java.util.UUID;

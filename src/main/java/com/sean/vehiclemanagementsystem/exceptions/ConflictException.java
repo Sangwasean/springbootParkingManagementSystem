@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.exceptions;
+package com.sean.vehiclemanagementsystem.exceptions;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

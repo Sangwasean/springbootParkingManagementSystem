@@ -1,9 +1,9 @@
-package com.mikepn.vehiclemanagementsystem.services;
+package com.sean.vehiclemanagementsystem.services;
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.owner.CreateOwnerDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.owner.UpdateOwnerDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.owner.OwnerResponseDTO;
-import com.mikepn.vehiclemanagementsystem.models.Owner;
+import com.sean.vehiclemanagementsystem.dtos.request.owner.CreateOwnerDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.owner.UpdateOwnerDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.owner.OwnerResponseDTO;
+import com.sean.vehiclemanagementsystem.models.Owner;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

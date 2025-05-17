@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.dtos.request.user;
+package com.sean.vehiclemanagementsystem.dtos.request.user;
 
 
-import com.mikepn.vehiclemanagementsystem.models.User;
+import com.sean.vehiclemanagementsystem.models.User;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 

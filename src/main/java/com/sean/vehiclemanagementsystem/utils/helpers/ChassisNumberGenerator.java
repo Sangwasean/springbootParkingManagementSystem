@@ -1,6 +1,6 @@
-package com.mikepn.vehiclemanagementsystem.utils.helpers;
+package com.sean.vehiclemanagementsystem.utils.helpers;
 
-import com.mikepn.vehiclemanagementsystem.repositories.IVehicleRepository;
+import com.sean.vehiclemanagementsystem.repositories.IVehicleRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

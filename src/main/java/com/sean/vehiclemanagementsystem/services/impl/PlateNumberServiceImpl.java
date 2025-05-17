@@ -1,13 +1,13 @@
-package com.mikepn.vehiclemanagementsystem.services.impl;
+package com.sean.vehiclemanagementsystem.services.impl;
 
-import com.mikepn.vehiclemanagementsystem.enums.EPlateStatus;
-import com.mikepn.vehiclemanagementsystem.exceptions.NotFoundException;
-import com.mikepn.vehiclemanagementsystem.models.Owner;
-import com.mikepn.vehiclemanagementsystem.models.PlateNumber;
-import com.mikepn.vehiclemanagementsystem.repositories.IOwnerRepository;
-import com.mikepn.vehiclemanagementsystem.repositories.IPlateNumberRepository;
-import com.mikepn.vehiclemanagementsystem.services.IPlateNumberService;
-import com.mikepn.vehiclemanagementsystem.utils.helpers.PlateNumberValidator;
+import com.sean.vehiclemanagementsystem.enums.EPlateStatus;
+import com.sean.vehiclemanagementsystem.exceptions.NotFoundException;
+import com.sean.vehiclemanagementsystem.models.Owner;
+import com.sean.vehiclemanagementsystem.models.PlateNumber;
+import com.sean.vehiclemanagementsystem.repositories.IOwnerRepository;
+import com.sean.vehiclemanagementsystem.repositories.IPlateNumberRepository;
+import com.sean.vehiclemanagementsystem.services.IPlateNumberService;
+import com.sean.vehiclemanagementsystem.utils.helpers.PlateNumberValidator;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

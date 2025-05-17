@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.dtos.response.vehicle;
+package com.sean.vehiclemanagementsystem.dtos.response.vehicle;
 
 import lombok.Data;
 

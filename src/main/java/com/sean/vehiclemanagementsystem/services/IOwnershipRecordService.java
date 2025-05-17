@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.services;
+package com.sean.vehiclemanagementsystem.services;
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.vehicle.TransferVehicleDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.vehicle.VehicleOwnershipResponseDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.vehicle.TransferVehicleDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.vehicle.VehicleOwnershipResponseDTO;
 
 import java.util.List;
 

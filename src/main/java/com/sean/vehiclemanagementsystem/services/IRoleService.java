@@ -1,11 +1,11 @@
-package com.mikepn.vehiclemanagementsystem.services;
+package com.sean.vehiclemanagementsystem.services;
 
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.role.CreateRoleDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.role.RoleResponseDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.role.RolesResponseDTO;
-import com.mikepn.vehiclemanagementsystem.enums.ERole;
-import com.mikepn.vehiclemanagementsystem.models.Role;
+import com.sean.vehiclemanagementsystem.dtos.request.role.CreateRoleDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.role.RoleResponseDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.role.RolesResponseDTO;
+import com.sean.vehiclemanagementsystem.enums.ERole;
+import com.sean.vehiclemanagementsystem.models.Role;
 import org.springframework.data.domain.Pageable;
 
 import java.util.UUID;

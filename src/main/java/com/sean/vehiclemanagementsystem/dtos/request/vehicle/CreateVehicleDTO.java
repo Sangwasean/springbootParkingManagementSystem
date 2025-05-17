@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.dtos.request.vehicle;
+package com.sean.vehiclemanagementsystem.dtos.request.vehicle;
 
 
 import lombok.Getter;

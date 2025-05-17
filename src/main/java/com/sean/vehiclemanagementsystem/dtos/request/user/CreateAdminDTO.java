@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.dtos.request.user;
+package com.sean.vehiclemanagementsystem.dtos.request.user;
 
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.auth.RegisterUserDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.auth.RegisterUserDTO;
 import lombok.*;
 
 @Data

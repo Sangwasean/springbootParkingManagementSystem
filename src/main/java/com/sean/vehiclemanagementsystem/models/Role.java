@@ -1,8 +1,8 @@
-package com.mikepn.vehiclemanagementsystem.models;
+package com.sean.vehiclemanagementsystem.models;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.mikepn.vehiclemanagementsystem.enums.ERole;
+import com.sean.vehiclemanagementsystem.enums.ERole;
 import jakarta.persistence.*;
 import lombok.*;
 

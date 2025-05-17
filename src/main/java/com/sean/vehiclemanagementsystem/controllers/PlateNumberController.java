@@ -1,9 +1,9 @@
-package com.mikepn.vehiclemanagementsystem.controllers;
+package com.sean.vehiclemanagementsystem.controllers;
 
 
-import com.mikepn.vehiclemanagementsystem.models.PlateNumber;
-import com.mikepn.vehiclemanagementsystem.payload.ApiResponse;
-import com.mikepn.vehiclemanagementsystem.services.IPlateNumberService;
+import com.sean.vehiclemanagementsystem.models.PlateNumber;
+import com.sean.vehiclemanagementsystem.payload.ApiResponse;
+import com.sean.vehiclemanagementsystem.services.IPlateNumberService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestBody;
-import com.mikepn.vehiclemanagementsystem.exceptions.AppException;
-import com.mikepn.vehiclemanagementsystem.exceptions.NotFoundException;
+import com.sean.vehiclemanagementsystem.exceptions.AppException;
+import com.sean.vehiclemanagementsystem.exceptions.NotFoundException;
 
 import java.util.List;
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.controllers;
+package com.sean.vehiclemanagementsystem.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;

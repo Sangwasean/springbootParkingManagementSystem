@@ -1,6 +1,6 @@
-package com.mikepn.vehiclemanagementsystem.config;
+package com.sean.vehiclemanagementsystem.config;
 
-import com.mikepn.vehiclemanagementsystem.security.user.UserPrincipal;
+import com.sean.vehiclemanagementsystem.security.user.UserPrincipal;
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.security.authentication.AnonymousAuthenticationToken;
 import org.springframework.security.core.Authentication;

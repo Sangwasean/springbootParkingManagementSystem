@@ -1,12 +1,12 @@
-package com.mikepn.vehiclemanagementsystem.controllers;
+package com.sean.vehiclemanagementsystem.controllers;
 
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.owner.CreateOwnerDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.owner.UpdateOwnerDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.owner.OwnerResponseDTO;
-import com.mikepn.vehiclemanagementsystem.models.Owner;
-import com.mikepn.vehiclemanagementsystem.payload.ApiResponse;
-import com.mikepn.vehiclemanagementsystem.services.IOwnerService;
+import com.sean.vehiclemanagementsystem.dtos.request.owner.CreateOwnerDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.owner.UpdateOwnerDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.owner.OwnerResponseDTO;
+import com.sean.vehiclemanagementsystem.models.Owner;
+import com.sean.vehiclemanagementsystem.payload.ApiResponse;
+import com.sean.vehiclemanagementsystem.services.IOwnerService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;

@@ -1,11 +1,11 @@
-package com.mikepn.vehiclemanagementsystem.security.jwt;
+package com.sean.vehiclemanagementsystem.security.jwt;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.mikepn.vehiclemanagementsystem.exceptions.JWTVerificationException;
-import com.mikepn.vehiclemanagementsystem.exceptions.TokenException;
-import com.mikepn.vehiclemanagementsystem.security.user.CustomUserDetailsService;
-import com.mikepn.vehiclemanagementsystem.security.user.UserPrincipal;
+import com.sean.vehiclemanagementsystem.exceptions.JWTVerificationException;
+import com.sean.vehiclemanagementsystem.exceptions.TokenException;
+import com.sean.vehiclemanagementsystem.security.user.CustomUserDetailsService;
+import com.sean.vehiclemanagementsystem.security.user.UserPrincipal;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

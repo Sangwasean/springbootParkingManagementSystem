@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.common;
+package com.sean.vehiclemanagementsystem.common;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

@@ -1,8 +1,8 @@
-package com.mikepn.vehiclemanagementsystem.exceptions;
+package com.sean.vehiclemanagementsystem.exceptions;
 
-import com.mikepn.vehiclemanagementsystem.dtos.response.auth.ErrorResponse;
-import com.mikepn.vehiclemanagementsystem.dtos.response.auth.Response;
-import com.mikepn.vehiclemanagementsystem.enums.ResponseType;
+import com.sean.vehiclemanagementsystem.dtos.response.auth.ErrorResponse;
+import com.sean.vehiclemanagementsystem.dtos.response.auth.Response;
+import com.sean.vehiclemanagementsystem.enums.ResponseType;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 

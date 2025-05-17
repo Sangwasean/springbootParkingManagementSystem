@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.dtos.response.auth;
+package com.sean.vehiclemanagementsystem.dtos.response.auth;
 
 
-import com.mikepn.vehiclemanagementsystem.enums.ResponseType;
+import com.sean.vehiclemanagementsystem.enums.ResponseType;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

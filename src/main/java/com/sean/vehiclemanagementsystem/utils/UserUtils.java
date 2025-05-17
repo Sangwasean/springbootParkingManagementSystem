@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.utils;
+package com.sean.vehiclemanagementsystem.utils;
 
 
-import com.mikepn.vehiclemanagementsystem.security.user.UserPrincipal;
+import com.sean.vehiclemanagementsystem.security.user.UserPrincipal;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 

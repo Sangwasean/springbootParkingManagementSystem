@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem;
+package com.sean.vehiclemanagementsystem;
 
-import com.mikepn.vehiclemanagementsystem.enums.ERole;
-import com.mikepn.vehiclemanagementsystem.services.IRoleService;
+import com.sean.vehiclemanagementsystem.enums.ERole;
+import com.sean.vehiclemanagementsystem.services.IRoleService;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.SpringApplication;

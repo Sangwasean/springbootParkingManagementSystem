@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.enums;
+package com.sean.vehiclemanagementsystem.enums;
 
 import lombok.Getter;
 

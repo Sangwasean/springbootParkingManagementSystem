@@ -1,8 +1,8 @@
-package com.mikepn.vehiclemanagementsystem.mapper;
+package com.sean.vehiclemanagementsystem.mapper;
 
-import com.mikepn.vehiclemanagementsystem.dtos.response.owner.OwnerResponseDTO;
-import com.mikepn.vehiclemanagementsystem.models.Owner;
-import com.mikepn.vehiclemanagementsystem.models.User;
+import com.sean.vehiclemanagementsystem.dtos.response.owner.OwnerResponseDTO;
+import com.sean.vehiclemanagementsystem.models.Owner;
+import com.sean.vehiclemanagementsystem.models.User;
 import org.springframework.stereotype.Component;
 
 @Component

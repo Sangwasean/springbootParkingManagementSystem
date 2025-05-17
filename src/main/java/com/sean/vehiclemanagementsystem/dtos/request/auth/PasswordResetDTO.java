@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.dtos.request.auth;
+package com.sean.vehiclemanagementsystem.dtos.request.auth;
 
 
-import com.mikepn.vehiclemanagementsystem.annotations.ValidPassword;
+import com.sean.vehiclemanagementsystem.annotations.ValidPassword;
 import lombok.Data;
 
 @Data

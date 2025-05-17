@@ -1,8 +1,8 @@
-package com.mikepn.vehiclemanagementsystem.standalone;
+package com.sean.vehiclemanagementsystem.standalone;
 
 
 
-import com.mikepn.vehiclemanagementsystem.enums.IEmailTemplate;
+import com.sean.vehiclemanagementsystem.enums.IEmailTemplate;
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;
 import lombok.RequiredArgsConstructor;

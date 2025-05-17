@@ -1,8 +1,8 @@
-package com.mikepn.vehiclemanagementsystem.security.user;
+package com.sean.vehiclemanagementsystem.security.user;
 
-import com.mikepn.vehiclemanagementsystem.exceptions.BadRequestException;
-import com.mikepn.vehiclemanagementsystem.models.User;
-import com.mikepn.vehiclemanagementsystem.repositories.IUserRepository;
+import com.sean.vehiclemanagementsystem.exceptions.BadRequestException;
+import com.sean.vehiclemanagementsystem.models.User;
+import com.sean.vehiclemanagementsystem.repositories.IUserRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

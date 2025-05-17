@@ -1,9 +1,9 @@
-package com.mikepn.vehiclemanagementsystem.config;
+package com.sean.vehiclemanagementsystem.config;
 
 
-import com.mikepn.vehiclemanagementsystem.handler.CustomAccessDeniedHandler;
-import com.mikepn.vehiclemanagementsystem.handler.CustomAuthenticationEntryPoint;
-import com.mikepn.vehiclemanagementsystem.security.jwt.JwtAuthFilter;
+import com.sean.vehiclemanagementsystem.handler.CustomAccessDeniedHandler;
+import com.sean.vehiclemanagementsystem.handler.CustomAuthenticationEntryPoint;
+import com.sean.vehiclemanagementsystem.security.jwt.JwtAuthFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,6 @@
-package com.mikepn.vehiclemanagementsystem.repositories;
+package com.sean.vehiclemanagementsystem.repositories;
 
-import com.mikepn.vehiclemanagementsystem.models.PlateNumber;
+import com.sean.vehiclemanagementsystem.models.PlateNumber;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

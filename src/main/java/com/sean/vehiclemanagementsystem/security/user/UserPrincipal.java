@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.security.user;
+package com.sean.vehiclemanagementsystem.security.user;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.mikepn.vehiclemanagementsystem.models.User;
+import com.sean.vehiclemanagementsystem.models.User;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;

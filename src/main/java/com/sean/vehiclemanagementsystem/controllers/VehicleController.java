@@ -1,12 +1,12 @@
-package com.mikepn.vehiclemanagementsystem.controllers;
+package com.sean.vehiclemanagementsystem.controllers;
 
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.vehicle.CreateVehicleDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.request.vehicle.UpdateVehicleDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.vehicle.PaginatedResponse;
-import com.mikepn.vehiclemanagementsystem.dtos.response.vehicle.VehicleResponseDTO;
-import com.mikepn.vehiclemanagementsystem.payload.ApiResponse;
-import com.mikepn.vehiclemanagementsystem.services.IVehicleService;
+import com.sean.vehiclemanagementsystem.dtos.request.vehicle.CreateVehicleDTO;
+import com.sean.vehiclemanagementsystem.dtos.request.vehicle.UpdateVehicleDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.vehicle.PaginatedResponse;
+import com.sean.vehiclemanagementsystem.dtos.response.vehicle.VehicleResponseDTO;
+import com.sean.vehiclemanagementsystem.payload.ApiResponse;
+import com.sean.vehiclemanagementsystem.services.IVehicleService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

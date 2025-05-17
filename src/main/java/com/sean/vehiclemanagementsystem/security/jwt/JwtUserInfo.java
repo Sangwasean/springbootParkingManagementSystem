@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.security.jwt;
+package com.sean.vehiclemanagementsystem.security.jwt;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

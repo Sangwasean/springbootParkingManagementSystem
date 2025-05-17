@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.dtos.request.auth;
+package com.sean.vehiclemanagementsystem.dtos.request.auth;
 
 
-import com.mikepn.vehiclemanagementsystem.annotations.ValidPassword;
+import com.sean.vehiclemanagementsystem.annotations.ValidPassword;
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

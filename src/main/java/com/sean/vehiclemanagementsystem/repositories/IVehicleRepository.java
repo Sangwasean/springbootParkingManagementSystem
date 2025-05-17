@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.repositories;
+package com.sean.vehiclemanagementsystem.repositories;
 
-import com.mikepn.vehiclemanagementsystem.models.Owner;
-import com.mikepn.vehiclemanagementsystem.models.Vehicle;
+import com.sean.vehiclemanagementsystem.models.Owner;
+import com.sean.vehiclemanagementsystem.models.Vehicle;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,10 +1,10 @@
-package com.mikepn.vehiclemanagementsystem.utils.helpers;
+package com.sean.vehiclemanagementsystem.utils.helpers;
 
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.owner.CreateOwnerDTO;
-import com.mikepn.vehiclemanagementsystem.models.Owner;
-import com.mikepn.vehiclemanagementsystem.models.Role;
-import com.mikepn.vehiclemanagementsystem.models.User;
+import com.sean.vehiclemanagementsystem.dtos.request.owner.CreateOwnerDTO;
+import com.sean.vehiclemanagementsystem.models.Owner;
+import com.sean.vehiclemanagementsystem.models.Role;
+import com.sean.vehiclemanagementsystem.models.User;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
 

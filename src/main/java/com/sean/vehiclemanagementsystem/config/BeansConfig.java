@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.config;
+package com.sean.vehiclemanagementsystem.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

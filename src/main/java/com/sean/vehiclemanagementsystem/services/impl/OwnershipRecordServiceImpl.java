@@ -1,20 +1,20 @@
-package com.mikepn.vehiclemanagementsystem.services.impl;
+package com.sean.vehiclemanagementsystem.services.impl;
 
-import com.mikepn.vehiclemanagementsystem.dtos.request.vehicle.TransferVehicleDTO;
-import com.mikepn.vehiclemanagementsystem.dtos.response.vehicle.VehicleOwnershipResponseDTO;
-import com.mikepn.vehiclemanagementsystem.enums.EPlateStatus;
-import com.mikepn.vehiclemanagementsystem.exceptions.AppException;
-import com.mikepn.vehiclemanagementsystem.exceptions.NotFoundException;
-import com.mikepn.vehiclemanagementsystem.models.Owner;
-import com.mikepn.vehiclemanagementsystem.models.OwnershipRecord;
-import com.mikepn.vehiclemanagementsystem.models.PlateNumber;
-import com.mikepn.vehiclemanagementsystem.models.Vehicle;
-import com.mikepn.vehiclemanagementsystem.repositories.IOwnerRepository;
-import com.mikepn.vehiclemanagementsystem.repositories.IOwnershipRecordRepository;
-import com.mikepn.vehiclemanagementsystem.repositories.IPlateNumberRepository;
-import com.mikepn.vehiclemanagementsystem.repositories.IVehicleRepository;
-import com.mikepn.vehiclemanagementsystem.services.IOwnershipRecordService;
-import com.mikepn.vehiclemanagementsystem.utils.Mapper;
+import com.sean.vehiclemanagementsystem.dtos.request.vehicle.TransferVehicleDTO;
+import com.sean.vehiclemanagementsystem.dtos.response.vehicle.VehicleOwnershipResponseDTO;
+import com.sean.vehiclemanagementsystem.enums.EPlateStatus;
+import com.sean.vehiclemanagementsystem.exceptions.AppException;
+import com.sean.vehiclemanagementsystem.exceptions.NotFoundException;
+import com.sean.vehiclemanagementsystem.models.Owner;
+import com.sean.vehiclemanagementsystem.models.OwnershipRecord;
+import com.sean.vehiclemanagementsystem.models.PlateNumber;
+import com.sean.vehiclemanagementsystem.models.Vehicle;
+import com.sean.vehiclemanagementsystem.repositories.IOwnerRepository;
+import com.sean.vehiclemanagementsystem.repositories.IOwnershipRecordRepository;
+import com.sean.vehiclemanagementsystem.repositories.IPlateNumberRepository;
+import com.sean.vehiclemanagementsystem.repositories.IVehicleRepository;
+import com.sean.vehiclemanagementsystem.services.IOwnershipRecordService;
+import com.sean.vehiclemanagementsystem.utils.Mapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

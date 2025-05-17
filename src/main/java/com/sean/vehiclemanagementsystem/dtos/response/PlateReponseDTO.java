@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.dtos.response;
+package com.sean.vehiclemanagementsystem.dtos.response;
 
 public class PlateReponseDTO {
 }

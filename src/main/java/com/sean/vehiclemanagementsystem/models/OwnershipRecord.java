@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.models;
+package com.sean.vehiclemanagementsystem.models;
 
 
-import com.mikepn.vehiclemanagementsystem.common.AbstractEntity;
+import com.sean.vehiclemanagementsystem.common.AbstractEntity;
 import jakarta.persistence.*;
 import lombok.*;
 import lombok.experimental.SuperBuilder;

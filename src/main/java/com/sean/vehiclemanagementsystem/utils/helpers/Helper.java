@@ -1,9 +1,9 @@
-package com.mikepn.vehiclemanagementsystem.utils.helpers;
+package com.sean.vehiclemanagementsystem.utils.helpers;
 
 
-import com.mikepn.vehiclemanagementsystem.enums.EGender;
-import com.mikepn.vehiclemanagementsystem.exceptions.BadRequestException;
-import com.mikepn.vehiclemanagementsystem.services.IUserService;
+import com.sean.vehiclemanagementsystem.enums.EGender;
+import com.sean.vehiclemanagementsystem.exceptions.BadRequestException;
+import com.sean.vehiclemanagementsystem.services.IUserService;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

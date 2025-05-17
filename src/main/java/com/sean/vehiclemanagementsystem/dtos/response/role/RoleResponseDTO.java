@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.dtos.response.role;
+package com.sean.vehiclemanagementsystem.dtos.response.role;
 
 
-import com.mikepn.vehiclemanagementsystem.models.Role;
+import com.sean.vehiclemanagementsystem.models.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

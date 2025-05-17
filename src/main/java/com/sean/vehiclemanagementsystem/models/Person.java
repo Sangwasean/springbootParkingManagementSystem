@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.models;
+package com.sean.vehiclemanagementsystem.models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.MappedSuperclass;

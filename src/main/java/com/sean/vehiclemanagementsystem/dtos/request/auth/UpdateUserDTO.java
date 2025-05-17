@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.dtos.request.auth;
+package com.sean.vehiclemanagementsystem.dtos.request.auth;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import io.swagger.v3.oas.annotations.media.Schema;

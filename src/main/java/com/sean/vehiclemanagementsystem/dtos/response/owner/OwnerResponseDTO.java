@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.dtos.response.owner;
+package com.sean.vehiclemanagementsystem.dtos.response.owner;
 
 import lombok.Builder;
 import lombok.Data;

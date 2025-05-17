@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.models;
+package com.sean.vehiclemanagementsystem.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.mikepn.vehiclemanagementsystem.enums.EAccountStatus;
+import com.sean.vehiclemanagementsystem.enums.EAccountStatus;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.dtos.request.owner;
+package com.sean.vehiclemanagementsystem.dtos.request.owner;
 
 import jakarta.validation.constraints.Email;
 import lombok.Getter;

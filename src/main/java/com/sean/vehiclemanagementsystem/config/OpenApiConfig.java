@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.config;
+package com.sean.vehiclemanagementsystem.config;
 
 
 
@@ -15,12 +15,12 @@ import io.swagger.v3.oas.annotations.servers.Server;
 @OpenAPIDefinition(
         info = @Info(
                 contact = @Contact(
-                        name = "Mike Nzabera",
-                        email="contact@gmail.com",
+                        name = "Hirwa sean",
+                        email="kdsean11@gmail.com",
                         url = "http://localhost:8000/guest"
                 ),
                 description = "OpenApi documentation for Vehicle Tracking Management System",
-                title = "OpenApi specification - Mike_pn",
+                title = "OpenApi specification - SEAN",
                 license = @License(
                         name = "MIT",
                         url = "https://some-url.com"

@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.security.user;
+package com.sean.vehiclemanagementsystem.security.user;
 
 import org.springframework.security.core.GrantedAuthority;
 

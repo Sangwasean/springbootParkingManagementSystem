@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.payload;
+package com.sean.vehiclemanagementsystem.payload;
 
 
 import com.fasterxml.jackson.annotation.JsonInclude;

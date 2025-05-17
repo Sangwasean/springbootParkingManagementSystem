@@ -1,6 +1,6 @@
-package com.mikepn.vehiclemanagementsystem.services;
+package com.sean.vehiclemanagementsystem.services;
 
-import com.mikepn.vehiclemanagementsystem.models.PlateNumber;
+import com.sean.vehiclemanagementsystem.models.PlateNumber;
 
 import java.util.List;
 import java.util.UUID;

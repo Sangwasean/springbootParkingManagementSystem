@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.security.jwt;
+package com.sean.vehiclemanagementsystem.security.jwt;
 
-import com.mikepn.vehiclemanagementsystem.exceptions.JWTVerificationException;
-import com.mikepn.vehiclemanagementsystem.security.user.UserPrincipal;
+import com.sean.vehiclemanagementsystem.exceptions.JWTVerificationException;
+import com.sean.vehiclemanagementsystem.security.user.UserPrincipal;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

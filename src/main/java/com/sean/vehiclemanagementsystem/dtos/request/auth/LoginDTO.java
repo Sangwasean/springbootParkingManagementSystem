@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.dtos.request.auth;
+package com.sean.vehiclemanagementsystem.dtos.request.auth;
 
 import lombok.Getter;
 import lombok.Setter;

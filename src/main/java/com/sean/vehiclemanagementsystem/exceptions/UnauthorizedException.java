@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.exceptions;
+package com.sean.vehiclemanagementsystem.exceptions;
 
 
 import org.springframework.web.bind.annotation.ResponseStatus;

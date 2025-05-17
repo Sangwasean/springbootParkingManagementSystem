@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.utils;
+package com.sean.vehiclemanagementsystem.utils;
 
-import com.mikepn.vehiclemanagementsystem.exceptions.*;
-import com.mikepn.vehiclemanagementsystem.payload.ApiResponse;
+import com.sean.vehiclemanagementsystem.exceptions.*;
+import com.sean.vehiclemanagementsystem.payload.ApiResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.BadCredentialsException;

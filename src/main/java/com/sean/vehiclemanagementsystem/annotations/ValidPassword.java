@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.annotations;
+package com.sean.vehiclemanagementsystem.annotations;
 
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;

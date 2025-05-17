@@ -1,7 +1,7 @@
-package com.mikepn.vehiclemanagementsystem.repositories;
+package com.sean.vehiclemanagementsystem.repositories;
 
-import com.mikepn.vehiclemanagementsystem.enums.ERole;
-import com.mikepn.vehiclemanagementsystem.models.Role;
+import com.sean.vehiclemanagementsystem.enums.ERole;
+import com.sean.vehiclemanagementsystem.models.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

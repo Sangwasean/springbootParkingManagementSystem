@@ -1,8 +1,8 @@
-package com.mikepn.vehiclemanagementsystem.handler;
+package com.sean.vehiclemanagementsystem.handler;
 
 
 
-import com.mikepn.vehiclemanagementsystem.exceptions.OperationNotPermittedException;
+import com.sean.vehiclemanagementsystem.exceptions.OperationNotPermittedException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.authentication.DisabledException;
@@ -17,7 +17,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 
-import static com.mikepn.vehiclemanagementsystem.enums.BusinessErrorCodes.*;
+import static com.sean.vehiclemanagementsystem.enums.BusinessErrorCodes.*;
 import static org.springframework.http.HttpStatus.*;
 
 @RestControllerAdvice

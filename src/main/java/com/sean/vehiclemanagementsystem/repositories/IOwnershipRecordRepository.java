@@ -1,6 +1,6 @@
-package com.mikepn.vehiclemanagementsystem.repositories;
+package com.sean.vehiclemanagementsystem.repositories;
 
-import com.mikepn.vehiclemanagementsystem.models.OwnershipRecord;
+import com.sean.vehiclemanagementsystem.models.OwnershipRecord;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

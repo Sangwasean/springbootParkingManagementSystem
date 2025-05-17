@@ -1,4 +1,4 @@
-package com.mikepn.vehiclemanagementsystem.utils;
+package com.sean.vehiclemanagementsystem.utils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
